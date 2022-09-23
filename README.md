@@ -2,7 +2,7 @@
 
 <div>
   <h1 align="center">Olá! Eu sou <a href="https://www.linkedin.com/in/daniele-santos-arruda/"><i>Daniele Arruda</i></a> 💙:</h1>
-  <p align="center">Desenvolvimento de Sistemas </p>
+  <p align="center">Desenvolvedora  </p>
    <br>
 </div>
 
@@ -37,6 +37,7 @@
 <div align="center">
   
 </div>
+<div>
   <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
-
+</div>
 
