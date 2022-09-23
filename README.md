@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div>
-  <h1 align="center">Olá! Eu sou <a href="https://www.linkedin.com/in/daniele-santos-arruda/"><i>Daniele Arruda</i></a> 💙:</h1>
+  <h1 align="center">Olá!</i></a> 💙:</h1>
   <p align="center">Desenvolvedora  </p>
    <br>
 </div>
