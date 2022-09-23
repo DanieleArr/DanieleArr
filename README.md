@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <div>
   <h1 align="center">Olá!</i></a> 💙:</h1>
